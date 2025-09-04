@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+mysqlclient
+python-decouple
+dj-database-url
+gunicorn
+Pillow

@@ -1,0 +1,16 @@
+# Bỏ qua virtual environment
+.venv/
+env/
+venv/
+
+# Bỏ qua file cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Bỏ qua file môi trường
+.env
+
+# Bỏ qua DB nếu bạn dùng sqlite
+*.sqlite3
